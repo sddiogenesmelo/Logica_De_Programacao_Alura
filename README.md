@@ -1,10 +1,10 @@
 
 # Progresso em Front-End Alura
 
-Nesse repositório vou mostrar meus avanços em Front-End.
+Nesse repositório vou mostrar meus avanços em Front-End Alura.
 
 
-## Lógica de programação em javaScript.
+## Lógica de programação com javaScript.
 
 * Iniciando em javascript
 * Condicionais e concatenação
