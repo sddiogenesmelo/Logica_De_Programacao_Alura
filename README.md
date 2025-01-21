@@ -4,10 +4,11 @@
 Nesse repositório vou mostrar meus avanços em Front-End.
 
 
-## Primeira parte
+## Lógica de programação em javaScript.
 
-* Iniciação em javascript
+* Iniciando em javascript
 * Condicionais e concatenação
 * Loop e tentativas
+* Boas Práticas em programação
 
 ## Segunda parte
