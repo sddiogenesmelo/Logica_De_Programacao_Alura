@@ -10,4 +10,5 @@ Nesse repositório vou mostrar meus avanços em Front-End Alura.
 * Loop e tentativas
 * Boas Práticas em programação
 
-## Segunda parte
+## Lógica de programação explore funções e listas.
+
