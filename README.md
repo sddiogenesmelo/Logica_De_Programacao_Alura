@@ -12,3 +12,9 @@ Nesse repositório vou mostrar meus avanços em Front-End Alura.
 
 ## Lógica de programação explore funções e listas.
 
+* Interagindo com HTML
+* Funções
+* Reiniciando o jogo
+* Listas
+* Publicando o projeto
+
