@@ -1,6 +1,6 @@
 # Progresso em Front-End Alura
 
-Nesse repositório vou mostrar meus avanços em Front-End Alura.
+  Nesse repositório vou mostrar meus avanços em Front-End Alura.
 
 
 ## Lógica de programação com javaScript.
